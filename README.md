@@ -4,6 +4,10 @@
 
 ---
 
+### 👨‍💻 Profile View Counter
+![Profile Views](https://komarev.com/ghpvc/?username=rahulsrivastava&color=blue&style=flat-square)
+
+
 ### 📫 **How to reach me**
 - **Email:** [rahulsrivastava1332003@gmail.com](mailto:rahulsrivastava1332003@gmail.com)  
 - **Skills:** React.js, Tailwind CSS, JavaScript, HTML, CSS, Python  
@@ -54,5 +58,3 @@
 
 ---
 
-### 👨‍💻 Profile View Counter
-![Profile Views](https://komarev.com/ghpvc/?username=rahulsrivastava&color=blue&style=flat-square)
