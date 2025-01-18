@@ -12,7 +12,7 @@
 - Focused on building interactive and responsive web applications.  
 - Practicing problem-solving and DSA to enhance algorithmic thinking.  
 - Enthusiastic about working on real-world projects and collaborating with like-minded individuals.  
-- 📄 [Resume](#)
+- 📄 [Resume](https://drive.google.com/file/d/1PyIA07ZRWWfIm_3hT2ZyCwo93Mwbj_8d/view?usp=sharing)
 
 ---
 
