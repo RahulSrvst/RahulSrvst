@@ -7,7 +7,6 @@
 ### 👨‍💻 Profile View Counter
 ![Profile Views](https://komarev.com/ghpvc/?username=rahulsrivastava&color=blue&style=flat-square)
 
-
 ### 📫 **How to reach me**
 - **Email:** [rahulsrivastava1332003@gmail.com](mailto:rahulsrivastava1332003@gmail.com)  
 - **Skills:** React.js, Tailwind CSS, JavaScript, HTML, CSS, Python  
@@ -21,29 +20,29 @@
 ---
 
 ### 🔗 **Connect with me**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rahul-srivastava)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rahul.srivastava)
-[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rahul-srivastava)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20&labelColor=black&borderRadius=50)](https://linkedin.com/in/rahul-srivastava)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white&logoWidth=20&labelColor=black&borderRadius=50)](https://instagram.com/rahul.srivastava)
+[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white&logoWidth=20&labelColor=black&borderRadius=50)](https://github.com/rahul-srivastava)
 
 ---
 
 ### 🛠 **Languages and Tools**
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white&borderRadius=50)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white&borderRadius=50)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black&borderRadius=50)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&borderRadius=50)
+![CSS](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white&borderRadius=50)
+![Node.js](https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white&borderRadius=50)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54&borderRadius=50)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white&borderRadius=50)
 
 ---
 
 ### 📊 **Most Used Languages**
-![JavaScript](https://img.shields.io/badge/JavaScript-33%25-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML-27%25-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-25%25-%231572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-15%25-%2361DAFB?style=for-the-badge&logo=react&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-33%25-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&borderRadius=50)
+![HTML](https://img.shields.io/badge/HTML-27%25-%23E34F26?style=for-the-badge&logo=html5&logoColor=white&borderRadius=50)
+![CSS](https://img.shields.io/badge/CSS-25%25-%231572B6?style=for-the-badge&logo=css3&logoColor=white&borderRadius=50)
+![React](https://img.shields.io/badge/React-15%25-%2361DAFB?style=for-the-badge&logo=react&logoColor=white&borderRadius=50)
 
 ---
 
@@ -57,4 +56,3 @@
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rahulsrivastava&theme=react-dark)
 
 ---
-
